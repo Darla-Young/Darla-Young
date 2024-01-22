@@ -19,6 +19,7 @@ $$\color{white}{\textrm{Please visit my repository and star ⭐ your favorite pr
   [![HackerRank](https://img.shields.io/badge/-DarlaYoung-islamicgreen?style=plastic&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/schic_dm)
   [![Gmail](https://img.shields.io/badge/-schic.dm-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:schic.dm@gmail.com)
   [![Facebook](https://img.shields.io/badge/Darla%20Young%20-%20%231877F2?style=plastic&logo=facebook&logoColor=white)](https://www.facebook.com/ingratiating)
+  [![CodeSignal](https://img.shields.io/badge/Darla%20Y-blue?style=plastic&logo=codesignal&logoColor=white)](https://app.codesignal.com/profile/darla_y)
 </div><br>
 
 <!-- Github Stats card -->
@@ -39,8 +40,8 @@ $$\color{white}{\textrm{Please visit my repository and star ⭐ your favorite pr
 * Creating a coding portfolio <img src="https://github.com/Darla-Young/Darla-Young/assets/89855627/bf745b70-b020-4293-9b33-b71a40fe683a" width="16" height="16" />
 
 ### 🥇 Goals:
-*  Have a career that I enjoy
-*  Better balance of time between work and home
+*  Find an employer that matches my ethics and recognizes employee excellence
+*  Better balance my time between work and home
 <br>
 <!-- Farewell -->
 <h4 align="center">“Goodbyes are not forever, goodbyes are not the end. They simply mean I’ll miss you until we meet again.” <br> — Author Unknown</h4>
