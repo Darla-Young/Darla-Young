@@ -36,8 +36,8 @@ $$\color{white}{\textrm{Please visit my repository and star ⭐ your favorite pr
 <a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>
 
 ### 🔨 Current Projects: 
-* Finishing my full-stack web development courses 💻
-* Creating a coding portfolio <img src="https://github.com/Darla-Young/Darla-Young/assets/89855627/bf745b70-b020-4293-9b33-b71a40fe683a" width="16" height="16" />
+* Finishing my BS in Computer Science 💻
+* Raising a teenage daughter <img src="https://github.com/user-attachments/assets/0b2619dc-ea12-4a06-ae84-84592a17d3e0" width="16" height="16" />
 
 ### 🥇 Goals:
 *  Find an employer that matches my ethics and recognizes employee excellence
